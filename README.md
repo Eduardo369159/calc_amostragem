@@ -1,4 +1,4 @@
-Este algoritmo é destinado a realizar calcular de amostragem, utilizando os modelos:  
+Este algoritmo é destinado a realizar calculos de amostragem, utilizando os modelos:  
 ° Aleatório simples  
 ° Estratificada Proporcional   
 ° Sistematica  
